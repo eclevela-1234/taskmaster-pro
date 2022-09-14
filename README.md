@@ -1,5 +1,5 @@
 # taskmaster-pro
-A project featuring jQuery and other 3rd party APIs
+A project featuring jQuery and other 3rd party APIs. /n
 This project shows the power of jQuery and also introduces favicons and the touchpunch hack!
 
 ![screenshot](./assets/images/screenshot.png)
